@@ -1,0 +1,11 @@
+﻿.swagger-section #header {
+    background-color: #1104bf;
+    padding: 14px;
+}
+.swagger-section #header a#logo {
+ background: none;
+/* background-color:red !important; */
+}
+.swagger-section #header form#api_selector .input{
+    display:none;
+}
